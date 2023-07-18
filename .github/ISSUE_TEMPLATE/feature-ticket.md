@@ -24,4 +24,5 @@ What task requirements need to be completed in order for this ticket to be consi
 ## **Related Items**
 What tickets must be completed before this ticket can be completed? What tickets depend on this ticket's completion?
 
-## Screenshots [optional]
+## **Screenshots**
+If applicable, add screenshots to help explain your problem.
