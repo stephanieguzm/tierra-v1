@@ -1,6 +1,6 @@
-import Header from './Header'
-import Footer from './Footer'
-import ExercisePage from './ExercisePage'
+import Header from '../components/Header'
+import Footer from '../components/Footer'
+import ExercisePage from '../components/ExercisePage'
 import './App.css'
 
 function App() {
