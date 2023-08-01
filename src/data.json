@@ -1,0 +1,25 @@
+[
+  {
+    "id": "214cea128",
+    "name": "5 - 4 - 3 - 2 - 1",
+    "descriptor": "a grounding exercise to engage your 5 senses",
+    "tag": "grounding",
+    "instructions": [
+      {
+        "5": "see"
+      },
+      {
+        "4": "touch"
+      },
+      {
+        "3": "hear"
+      },
+      {
+        "2": "smell"
+      },
+      {
+        "1": "taste"
+      }
+    ]
+  }
+]
